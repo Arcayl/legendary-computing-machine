@@ -1,7 +1,7 @@
 #include "Window.h"
 #include <stdio.h>
 
-Window::Window() : windowHeight(800), windowWidth(600), win(nullptr), surface(nullptr)
+Window::Window() : windowHeight(600), windowWidth(800), win(nullptr), surface(nullptr)
 {
 }
 
